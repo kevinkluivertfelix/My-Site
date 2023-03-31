@@ -1,16 +1,4 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
+[Site Link](https://kevinkluivertfelix.github.io/My-Site/)
 
 Strata by HTML5 UP
 html5up.net | @ajlkn
